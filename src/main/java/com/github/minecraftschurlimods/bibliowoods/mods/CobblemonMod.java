@@ -12,6 +12,6 @@ public class CobblemonMod extends AbstractMod {
 
     @Override
     protected void registerWoodTypes(RegisterBibliocraftWoodTypesEvent event) {
-        woodType(event, "apricorn", () -> CobblemonBlocks.APRICORN_PLANKS, () -> CobblemonBlocks.APRICORN_SLAB, () -> CobblemonBlocks.APRICORN_STAIRS);
+        woodType(event, "apricorn", "block/wood/apricorn_planks", () -> CobblemonBlocks.APRICORN_PLANKS, () -> CobblemonBlocks.APRICORN_SLAB, () -> CobblemonBlocks.APRICORN_STAIRS);
     }
 }
