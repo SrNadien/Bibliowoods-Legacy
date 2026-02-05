@@ -2,6 +2,6 @@
     "parent": "bibliocraft:block/template/display_case/open",
     "textures": {
         "color": "minecraft:block/orange_wool",
-        "texture": "cobblemon:block/apricorn_planks"
+        "texture": "cobblemon:block/wood/apricorn_planks"
     }
 }

@@ -2,6 +2,6 @@
     "parent": "bibliocraft:block/template/seat/seat",
     "textures": {
         "color": "minecraft:block/light_blue_wool",
-        "texture": "cobblemon:block/apricorn_planks"
+        "texture": "cobblemon:block/wood/apricorn_planks"
     }
 }

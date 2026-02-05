@@ -65,7 +65,7 @@
             "required": false
         },
         {
-            "id": "bibliocraft:eternal_starlight_starlight_mangrove_label",
+            "id": "bibliocraft:eternal_starlight_banyin_label",
             "required": false
         },
         {
@@ -78,6 +78,10 @@
         },
         {
             "id": "bibliocraft:eternal_starlight_jinglestem_label",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_cradlewood_label",
             "required": false
         },
         {
@@ -102,6 +106,14 @@
         },
         {
             "id": "bibliocraft:forbidden_arcanus_edelwood_label",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:garnished_nut_label",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:garnished_sepia_label",
             "required": false
         },
         {

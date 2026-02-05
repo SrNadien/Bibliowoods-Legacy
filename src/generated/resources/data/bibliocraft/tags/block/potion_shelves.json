@@ -65,7 +65,7 @@
             "required": false
         },
         {
-            "id": "bibliocraft:eternal_starlight_starlight_mangrove_potion_shelf",
+            "id": "bibliocraft:eternal_starlight_banyin_potion_shelf",
             "required": false
         },
         {
@@ -78,6 +78,10 @@
         },
         {
             "id": "bibliocraft:eternal_starlight_jinglestem_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_cradlewood_potion_shelf",
             "required": false
         },
         {
@@ -102,6 +106,14 @@
         },
         {
             "id": "bibliocraft:forbidden_arcanus_edelwood_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:garnished_nut_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:garnished_sepia_potion_shelf",
             "required": false
         },
         {

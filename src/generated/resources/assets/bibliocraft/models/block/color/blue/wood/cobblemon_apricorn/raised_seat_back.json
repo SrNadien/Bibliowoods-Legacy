@@ -2,6 +2,6 @@
     "parent": "bibliocraft:block/template/seat/raised_seat_back",
     "textures": {
         "color": "minecraft:block/blue_wool",
-        "texture": "cobblemon:block/apricorn_planks"
+        "texture": "cobblemon:block/wood/apricorn_planks"
     }
 }
